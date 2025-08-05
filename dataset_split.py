@@ -23,6 +23,7 @@ val_ratio = 0.15
 test_ratio = 0.15
 
 # Loop through each soil class and split
+# Assuming each class folder contains images
 for class_name in os.listdir(source_dir):
     class_dir = source_dir / class_name
     if not class_dir.is_dir():

@@ -9,4 +9,8 @@ Data Collection is completed
     b) A 25 years fuel used, coal mined and carbon emitted dataset was generated (synthetic dataset) as there was no available dataset
 
 
+Week - 2:
+Data Preprocessing is completed for the soil images dataset and data split is been done into test, train and validation
+
+
 
