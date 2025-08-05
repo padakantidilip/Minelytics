@@ -1,3 +1,5 @@
+# Data Collection and Data Preprocessing
+# This script splits a dataset of soil images into Train, Validation, and Test sets.
 import os
 import shutil
 import random

@@ -1,0 +1,12 @@
+Week - 1
+Data Collection is completed
+    a) A large Soil Images Dataset was made using below datasets: 
+    https://www.kaggle.com/datasets/prasanshasatpathy/soil-types
+    https://www.kaggle.com/datasets/jhislainematchouath/soil-types-dataset
+    https://www.kaggle.com/datasets/matshidiso/soil-types
+    https://www.kaggle.com/datasets/naivedatamodel/soil-dataset
+
+    b) A 25 years fuel used, coal mined and carbon emitted dataset was generated (synthetic dataset) as there was no available dataset
+
+
+
