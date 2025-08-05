@@ -10,7 +10,7 @@ Data Collection is completed
 
 
 Week - 2:
-Data Preprocessing is completed for the soil images dataset and data split is been done into test, train and validation
+Data Preprocessing is completed for the soil images dataset and data split is been done into test, train and validation.
 
 
 
